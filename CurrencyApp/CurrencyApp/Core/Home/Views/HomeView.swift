@@ -58,6 +58,5 @@ extension HomeView {
                 }
         }
         .padding(.horizontal)
-
     }
 }
