@@ -10,6 +10,7 @@
 		1420603929EE68F6008C56C4 /* CoinImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1420603829EE68F6008C56C4 /* CoinImageView.swift */; };
 		1420603B29EE6D52008C56C4 /* CoinImageServise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1420603A29EE6D52008C56C4 /* CoinImageServise.swift */; };
 		1420603D29EE7238008C56C4 /* CoinImageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1420603C29EE7238008C56C4 /* CoinImageViewModel.swift */; };
+		1420603F29F4F291008C56C4 /* LocalFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1420603E29F4F291008C56C4 /* LocalFileManager.swift */; };
 		14272F6629DBF4720010F9B8 /* CurrencyAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14272F6529DBF4720010F9B8 /* CurrencyAppApp.swift */; };
 		14272F6829DBF4720010F9B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14272F6729DBF4720010F9B8 /* ContentView.swift */; };
 		14272F6A29DBF4730010F9B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14272F6929DBF4730010F9B8 /* Assets.xcassets */; };
@@ -31,6 +32,7 @@
 		1420603829EE68F6008C56C4 /* CoinImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinImageView.swift; sourceTree = "<group>"; };
 		1420603A29EE6D52008C56C4 /* CoinImageServise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinImageServise.swift; sourceTree = "<group>"; };
 		1420603C29EE7238008C56C4 /* CoinImageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinImageViewModel.swift; sourceTree = "<group>"; };
+		1420603E29F4F291008C56C4 /* LocalFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalFileManager.swift; sourceTree = "<group>"; };
 		14272F6229DBF4720010F9B8 /* CurrencyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14272F6529DBF4720010F9B8 /* CurrencyAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyAppApp.swift; sourceTree = "<group>"; };
 		14272F6729DBF4720010F9B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 			isa = PBXGroup;
 			children = (
 				14B9CA3929EA64E0001380C0 /* NetworkingManager.swift */,
+				1420603E29F4F291008C56C4 /* LocalFileManager.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				14272FCC29DD504E0010F9B8 /* HomeViewModel.swift in Sources */,
 				14272FBF29DC08D90010F9B8 /* CircleButtonVIew.swift in Sources */,
 				14272F6829DBF4720010F9B8 /* ContentView.swift in Sources */,
+				1420603F29F4F291008C56C4 /* LocalFileManager.swift in Sources */,
 				14272FD929DFCDE60010F9B8 /* CoinDataServise.swift in Sources */,
 				1420603929EE68F6008C56C4 /* CoinImageView.swift in Sources */,
 				14272FBB29DC07740010F9B8 /* HomeView.swift in Sources */,
